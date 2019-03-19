@@ -1,0 +1,13 @@
+-- auto Generated on 2018-11-14
+-- DROP TABLE IF EXISTS tb_content;
+CREATE TABLE tb_content(
+	id BIGINT (15) NOT NULL AUTO_INCREMENT COMMENT '',
+	category_id BIGINT (15) NOT NULL DEFAULT -1 COMMENT '内容类目ID',
+	title VARCHAR (50) NOT NULL DEFAULT '' COMMENT '内容标题',
+	url VARCHAR (50) NOT NULL DEFAULT '' COMMENT '链接',
+	pic VARCHAR (50) NOT NULL DEFAULT '' COMMENT '图片绝对路径',
+	status VARCHAR (50) NOT NULL DEFAULT '' COMMENT '状态',
+	sort_order INT (11) NOT NULL DEFAULT -1 COMMENT '排序',
+INDEX `ix_title`(title),
+	PRIMARY KEY (id)
+)ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT 'tb_content';

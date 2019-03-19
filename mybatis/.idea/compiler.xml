@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="annotion_mybatis" target="1.5" />
+      <module name="day03_mybatis" target="1.5" />
+      <module name="day04_mybatis" target="1.5" />
+      <module name="day04_mybatist" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

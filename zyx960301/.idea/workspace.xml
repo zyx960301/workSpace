@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd7feda0-f5d7-4eaf-bef0-37fccedff2e5" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Dynamic/Dynamic/src/main/java/com/itheima/service/UserService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../casclient_demo3/.idea/libraries/Maven__ca_juliusdavies_not_yet_commons_ssl_0_3_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../casclient_demo3/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../casclient_demo3/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../casclient_demo3/.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../casclient_demo3/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../casclient_demo3/target/casclient_demo3-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../casclient_demo3/target/casclient_demo3-1.0-SNAPSHOT/WEB-INF/lib/jcip-annotations-1.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../com-itali-parent/.idea/MyBatisCodeHelperDatasource.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../com-itali-parent/com-itali-parent.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../com-itali-parent/com-itali-user-pojo/src/main/java/com/domain/TbContent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../com-itali-parent/com-itali-user-pojo/src/main/java/com/domain/TbItemCat.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../day01_eesy_01mybatis/src/main/java/com/itheima/domain/User.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../day01_eesy_01mybatis/src/test/java/MybatisTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../day01_spring/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/.idea/libraries/msg_sdk.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_demo/alicom-dysms-api/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_demo/alicom-dysms-api/target/classes/com/alicom/dysms/api/SmsDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-core/src/main/java/com/aliyuncs/RoaAcsRequest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-core/src/main/java/com/aliyuncs/auth/Credential.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-core/src/main/java/com/aliyuncs/auth/ISignatureComposer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-core/src/main/java/com/aliyuncs/regions/InternalEndpointsParser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-core/src/main/resources/com/aliyuncs/endpoints/endpoints.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-core/src/test/java/com/aliyuncs/DefaultAcsClientTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-core/src/test/java/com/aliyuncs/auth/AuthTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-core/src/test/java/com/aliyuncs/profile/DefaultProfileTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-core/target/classes/com/aliyuncs/RoaAcsRequest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-core/target/classes/com/aliyuncs/auth/ISignatureComposer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-core/target/classes/com/aliyuncs/profile/DefaultProfile.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-core/target/surefire-reports/com.aliyuncs.transform.UnmarshallerContextTest.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-core/target/test-classes/com/aliyuncs/ecs/v20140526/model/CreateInstanceRequest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-core/target/test-classes/com/aliyuncs/ecs/v20140526/model/DescribeRegionsResponse$Region.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-dysmsapi/aliyun-java-sdk-dysmsapi-1.0.0-SANPSHOT.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-dysmsapi/target/classes/com/aliyuncs/dysmsapi/model/v20170525/QueryInterSmsIsoInfoResponse$IsoSupportDTO.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-dysmsapi/target/classes/com/aliyuncs/dysmsapi/transform/v20170525/SendSmsResponseUnmarshaller.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/msg_demo/alicom-mns-receive-samples/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/msg_sdk/alicom-mns-receive-sdk-0.0.1-SNAPSHOT.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../heima_ssm/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../itcast_sms_service/.idea/libraries/Maven__org_springframework_spring_core_4_3_2_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../itcast_sms_service/itcast_sms_service.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../itcast_sms_service/src/itcast_sms_service/resources/application.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../mybatis/day04_mybatis/day04_mybatis.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/.idea/libraries/Maven__velocity_velocity_1_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-cart-service/target/pinyougou-cart-service-0.0.1-SNAPSHOT/WEB-INF/lib/httpcore-4.4.4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-content-service/target/pinyougou-content-service-0.0.1-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-content-service/target/pinyougou-content-service-0.0.1-SNAPSHOT/WEB-INF/lib/pinyougou-content-interface-0.0.1-SNAPSHOT.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-content-service/target/pinyougou-content-service-0.0.1-SNAPSHOT/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/57b51ea9Nb862ca5e.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/_/01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/_/dp01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/_/gocart.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/_/gocart01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/_/pay5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/_/phone-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/_/phone03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/assets/img/itemlike/itemlike04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/assets/img/pay/icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/assets/img/pay/pay12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/assets/img/pay/pay5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/assets/img/phone/dp04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/assets/img/phone/phone11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/assets/img/zoom/b1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/avatar2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/brand12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/clock.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/floor-1-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/like_02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/mastercard.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/img/user3-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/plugins/adminLTE/img/user7-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/plugins/angularjs/angular-animate.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/plugins/select2/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/plugins/select2/select2-bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/plugins/select2/select2-spinner.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/plugins/select2/select2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/src/main/webapp/plugins/select2/select2_locale_zh-CN.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/classes/com/pinyougou/manager/controller/ContentCategoryController.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT.war" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/WEB-INF/classes/config/application.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/WEB-INF/lib/geronimo-jms_1.1_spec-1.1.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/WEB-INF/lib/httpclient-cache-4.2.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/WEB-INF/lib/netty-3.7.0.Final.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-support-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-messaging-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/img/_/b1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/img/_/banner.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/img/_/icon-red.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/img/_/intro03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/img/_/phone07.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/img/_/shi_heart.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/img/_/shop-intro.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/img/ad1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/img/assets/img/itemlike/itemlike03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/img/assets/img/pay/pay19.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/img/assets/img/phone/part03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/img/assets/img/zoom/b1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/img/banner2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/img/floor-1-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/img/today01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/img/visa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/js/controller/sellerController.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/js/pages/login.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/js/service/provincesService.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/plugins/adminLTE/css/skins/_all-skins.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/plugins/adminLTE/css/skins/skin-black-light.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/plugins/adminLTE/css/skins/skin-blue-light.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/plugins/adminLTE/css/skins/skin-purple-light.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/plugins/adminLTE/img/avatar3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/plugins/adminLTE/img/photo3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/plugins/select2/select2_locale_eu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-manager-web/target/pinyougou-manager-web-0.0.1-SNAPSHOT/plugins/select2/select2_locale_lt.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-order-interface/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-order-service/src/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-service/target/classes/spring/applicationContext-service.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-service/target/pinyougou-page-service-0.0.1-SNAPSHOT/WEB-INF/lib/commons-lang3-3.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-service/target/pinyougou-page-service-0.0.1-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.32.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-service/target/pinyougou-page-service-0.0.1-SNAPSHOT/WEB-INF/lib/spring-data-commons-1.11.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-service/target/pinyougou-page-service-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-web/src/main/webapp/css/pages-pay.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-web/src/main/webapp/img/_/clock.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-web/src/main/webapp/img/_/itemlike05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-web/src/main/webapp/img/_/phone12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-web/src/main/webapp/img/ad1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-web/src/main/webapp/img/assets/img/itemlike/itemlike01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-web/src/main/webapp/img/assets/img/pay/pay17.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-web/src/main/webapp/img/assets/img/phone/mobile01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-web/src/main/webapp/img/assets/img/success-cart/buy01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-web/src/main/webapp/img/floor-1-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-web/src/main/webapp/img/like3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-web/src/main/webapp/img/like_01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-page-web/src/main/webapp/plugins/angularjs/angular-animate.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-service/target/pinyougou-search-service-0.0.1-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.21.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-service/target/pinyougou-search-service-0.0.1-SNAPSHOT/WEB-INF/lib/jedis-2.8.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-service/target/pinyougou-search-service-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.6.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-service/target/pinyougou-search-service-0.0.1-SNAPSHOT/WEB-INF/lib/solr-solrj-4.10.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-service/target/pinyougou-search-service-0.0.1-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-service/target/pinyougou-search-service-0.0.1-SNAPSHOT/WEB-INF/lib/wstx-asl-3.2.7.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-service/target/pinyougou-search-service-0.0.1-SNAPSHOT/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/resources/spring/springmvc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/css/pages-JD-index.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/fonts/icon-moon.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/_/buy001.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/_/car.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/_/itemlike03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/_/pay14.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/_/phone04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/_/phone11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/_/sampling_head.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/_/seckillbg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/_/shop-logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/account.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/assets/img/itemlike/itemlike06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/assets/img/pay/pay12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/assets/img/phone/part03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/assets/img/phone/phone08.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/brand07.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/brand_13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/choosed.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/floor-1-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/like_04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/today04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/img/wx_cz.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/js/pages/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/js/plugins/jquery-placeholder/jquery.placeholder.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/js/plugins/jquery.jqzoom/jquery.jqzoom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/src/main/webapp/plugins/angularjs/angular-route.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/WEB-INF/classes/spring/springmvc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.6.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/WEB-INF/lib/jline-0.9.94.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-api-1.6.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-messaging-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/fonts/icon-pc.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/fonts/icon-touch.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/img/57b51ea9Nb862ca5e.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/img/_/01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/img/_/gocart.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/img/_/login-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/img/_/mobile06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/img/_/pay1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/img/_/phone01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/img/assets/img/itemlike/itemlike03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/img/assets/img/pay/pay17.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/img/assets/img/pay/right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/img/assets/img/phone/part02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/img/assets/img/phone/phone01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/img/assets/img/success-cart/buy01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/img/brand08.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/img/interest06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/img/like_05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/plugins/cssgrids/cssgrids-min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-search-web/target/pinyougou-search-web-0.0.1-SNAPSHOT/plugins/jquery-placeholder/jquery.placeholder.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-sellergoods-interface/target/classes/com/pinyougou/sellergoods/service/BrandService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-sellergoods-interface/target/classes/com/pinyougou/sellergoods/service/SpecificationOptionService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-sellergoods-interface/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-sellergoods-service/target/classes/com/pinyougou/sellergoods/service/impl/ItemServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-sellergoods-service/target/classes/spring/applicationContext-tx.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-0.0.1-SNAPSHOT/WEB-INF/classes/com/pinyougou/sellergoods/service/impl/ItemServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-0.0.1-SNAPSHOT/WEB-INF/classes/com/pinyougou/sellergoods/service/impl/SpecificationServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-0.0.1-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-0.0.1-SNAPSHOT/WEB-INF/lib/httpmime-4.2.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-databind-2.6.7.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-0.0.1-SNAPSHOT/WEB-INF/lib/zkclient-0.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/_all-skins.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-black-light.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/boxed-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/photo4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/105.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/118.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/62.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/82.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/image/images/align_top.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/themes/common/loading.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/themes/simple/simple.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-shop-web/src/main/webapp/plugins/select2/.bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-shop-web/src/main/webapp/plugins/select2/select2-spinner.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_bg.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_hr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_rs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-service/target/pinyougou-user-service-0.0.1-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-service/target/pinyougou-user-service-0.0.1-SNAPSHOT/WEB-INF/lib/druid-1.0.9.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-service/target/pinyougou-user-service-0.0.1-SNAPSHOT/WEB-INF/lib/jedis-2.8.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-service/target/pinyougou-user-service-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-3.2.8.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-service/target/pinyougou-user-service-0.0.1-SNAPSHOT/WEB-INF/lib/pagehelper-4.1.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/resources/config/application.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/css/pages-JD-index.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/css/pages-cooperation.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/css/pages-myOrder.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/css/widget-cartPanelView.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/home-orderDetail.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/home-setting-address-phone.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/img/_/code.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/img/_/down-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/img/_/mobile02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/img/_/pay13.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/img/assets/img/pay/pay18.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/img/assets/img/phone/mobile02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/img/assets/img/phone/phone07.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/img/assets/img/zoom/b3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/img/brand06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/img/brand13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/img/brand_11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/img/clock.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/img/interest02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/img/like_03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/js/controller/indexController.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/js/pages/seckill-index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/js/pages/shoplogin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/js/plugins/jquery.jqzoom/zoom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/plugins/jquery.jqzoom/jquery.jqzoom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../pinyougou-parent/pinyougou-user-web/src/main/webapp/plugins/normalize/normalize.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springBootDemo/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_j2ee_management_1_1_spec_1_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springBootDemo/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springBootDemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_4_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springmvcday0202/.idea/artifacts/springmvcday0202_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springmvcday0202/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springssm/springssm.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springssm/src/main/resources/spring/applicationContext-dao.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springssm/src/main/resources/spring/springmvc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ssm_item_project/ssm_item_web/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ssm_item_project/ssm_item_web/target/tomcat/work/Tomcat/localhost/hm_web/org/apache/jsp/pages/itemsList_jsp.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../tensquare_parent/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../tensquare_parent/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../tensquare_parent/.idea/libraries/Maven__org_springframework_spring_orm_5_0_8_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../tensquare_parent/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../tensquare_parent/tensquare_article/src/main/java/com/tensquare/article/web/controller/ArticleController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../tensquare_parent/tensquare_article/src/main/java/com/tensquare/article/web/controller/ColumnController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../tensquare_parent/tensquare_base/src/main/java/com/mapper/TabCategoryMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../tensquare_parent/tensquare_base/target/classes/com/tensquare/base/BaseApplication.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../tensquare_parent/tensquare_qa/src/main/java/com/tensquare/qa/service/ReplyService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../tensquare_parent/tensquare_qa/target/classes/com/tensquare/qa/po/Problem.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../tensquare_parent/tensquare_recruit/src/main/java/com/tensquare/recruit/RecruitApplication.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../tensquare_parent/tensquare_recruit/src/main/java/com/tensquare/recruit/dao/EnterpriseRepository.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../tensquare_parent/tensquare_recruit/src/main/java/com/tensquare/recruit/web/controller/EnterpriseController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../tensquare_parent/tensquare_recruit/target/classes/com/tensquare/recruit/po/Enterprise.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/java/cn/itcast/travel/dao/UserDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/java/cn/itcast/travel/util/MailUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m208398dd4ab80697799ae25605f3fbb06.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m2180b564776c1e140b73f15de5f3a5312.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m2190a6a9a44835daa6e510ff127e1f81e.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m21baca2c10aeda9fbb13bc14e0411a9ec.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m21e1206e209a1cf61b531311ab465a8fb.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m22147bf064e03b7313fe250b262d902c1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m22f86bc1ae804aba4be27c737aac1f83b.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m2395dd088670dfb34bbff4367c06acbcb.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m258bff0bceeb908789e4f321652693fb1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m259f25b76fafbca847eac3340fc37ba42.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m25b95dd85d2fe9fe53f743e618f67d891.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m25dc9656353291d916b49c6ed1ff016a1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m26b5778eca8006ee0f9ffe326fc11bb3e.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m2718a0c8445e1d51deca91f07f8e11d5c.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m276e20eb3585db8de742aa741f0309afe.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m2a9767d7b337e8423768cbe94b4ad1227.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m2c030ac11b62fb31537d553490597a365.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m2c8da7d40e4df3a7465c5c674692539e7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m2d5d79457cd1f3c2b54a10994d7d9dc08.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m2ea1e1ee2d5bdea098c480e64425dc669.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m2f553a4cd027e61ddd4ec7add88ff3e91.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m2fa7b43b0cc93b78676a5cd9e5a32c309.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/img/product/size2/m2fde4e5c0a5ee7362fcb2d9767a607340.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../travel/travel.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/.idea/libraries/Maven__io_projectreactor_ipc_reactor_netty_0_7_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/.idea/libraries/Maven__org_springframework_spring_orm_5_0_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/test-freemarker/src/main/java/com/xuecheng/test/freemarker/FreemarkerTestApplication.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/test-rabbitmq-consumer/src/test/java/com/xuecheng/test/rabbitmq/consumer01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/test-rabbitmq-producer/src/main/resources/logback-spring.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/QueryResult.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CourseBase.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CourseMarket.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/MediaFile.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/response/MediaCode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/XcOrdersDetail.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcRole.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcUser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/ext/XcUserExt.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPagePreviewController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/xc-service-manage-cms/src/test/java/com/xuecheng/manage_cms/dao/testRestTemplate.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../xcEduService/xc-service-manage-cms/target/classes/com/xuecheng/manage_cms/controller/CmsPageController.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/zyx960301/Lazy.class" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="zyx960301.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zyx960301.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MySingleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MySingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MySingleton2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MySingleton2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MySingleton3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MySingleton3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Client2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+              <folding>
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LazyInstance.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LazyInstance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+              <folding>
+                <element signature="e#841#842#0" expanded="true" />
+                <element signature="e#868#869#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <folding>
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2496">
+              <caret line="130" column="0" lean-forward="false" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/zyx.java" />
+        <option value="$PROJECT_DIR$/src/ArrayListInterator.java" />
+        <option value="$PROJECT_DIR$/src/MySingleton.java" />
+        <option value="$PROJECT_DIR$/src/TestMysingleton.java" />
+        <option value="$PROJECT_DIR$/src/Client.java" />
+        <option value="$PROJECT_DIR$/src/MySingleton2.java" />
+        <option value="$PROJECT_DIR$/src/Client2.java" />
+        <option value="$PROJECT_DIR$/src/LazyInstance.java" />
+        <option value="$PROJECT_DIR$/src/MySingleton3.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zyx960301" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zyx960301" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xcEduService" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MySingleton3">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="ArrayListInterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ArrayListInterator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="zyx960301" />
+      <envs />
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="zyx960301" />
+      <envs />
+    </configuration>
+    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Client2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="zyx960301" />
+      <envs />
+    </configuration>
+    <configuration name="LazyInstance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="LazyInstance" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="zyx960301" />
+      <envs />
+    </configuration>
+    <configuration name="MySingleton3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="MySingleton3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="zyx960301" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.ArrayListInterator" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Client" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Client2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LazyInstance" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MySingleton3" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.MySingleton3" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LazyInstance" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Client2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Client" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ArrayListInterator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd7feda0-f5d7-4eaf-bef0-37fccedff2e5" name="Default" comment="" />
+      <created>1542123940085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542123940085</updated>
+      <workItem from="1542123941675" duration="1385000" />
+      <workItem from="1542125356324" duration="291000" />
+      <workItem from="1542155953311" duration="53000" />
+      <workItem from="1542198999436" duration="305000" />
+      <workItem from="1542199338766" duration="690000" />
+      <workItem from="1542200052569" duration="613000" />
+      <workItem from="1542201140997" duration="3000" />
+      <workItem from="1542350670118" duration="2290000" />
+      <workItem from="1543203797471" duration="2127000" />
+      <workItem from="1543539737644" duration="727000" />
+      <workItem from="1543547705502" duration="99000" />
+      <workItem from="1552966910012" duration="7676000" />
+      <workItem from="1552989569323" duration="1576000" />
+    </task>
+    <task id="LOCAL-00001" summary="把zyx项目添加到git">
+      <created>1552990442433</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552990442433</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17835000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.50617284" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957596" sideWeight="0.4938918" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.49382716" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Mybatis datasource" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957596" sideWeight="0.5061082" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19538379" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957596" sideWeight="0.4938918" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959743" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959743" sideWeight="0.4938918" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="把zyx项目添加到git" />
+    <option name="LAST_COMMIT_MESSAGE" value="把zyx项目添加到git" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/zyx960301.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MySingleton2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LazyInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2496">
+          <caret line="130" column="0" lean-forward="false" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MySingleton3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="52" lean-forward="false" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zyx.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2496">
+          <caret line="130" column="0" lean-forward="false" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayListInterator.java" />
+    <entry file="file://$PROJECT_DIR$/src/zyx.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2496">
+          <caret line="130" column="0" lean-forward="false" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayListInterator.java" />
+    <entry file="file://H:/train/就业班/javaweb/1.ssm/1.mybatis/Mybatis 重点.md" />
+    <entry file="file://$PROJECT_DIR$/src/zyx.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2496">
+          <caret line="130" column="0" lean-forward="true" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayListInterator.java" />
+    <entry file="file://$PROJECT_DIR$/src/zyx.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/zyx.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2496">
+          <caret line="130" column="0" lean-forward="false" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/train/就业班/javaweb/1.ssm/1.mybatis/Mybatis 重点.md" />
+    <entry file="file://H:/train/就业班/javaweb/mybaits4天资料/mybatis_day01/代码/mybati第一天源码.rar" />
+    <entry file="file://$PROJECT_DIR$/src/ArrayListInterator.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test.java" />
+    <entry file="file://$PROJECT_DIR$/zyx960301.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestMysingleton.java" />
+    <entry file="file://$PROJECT_DIR$/src/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LazyInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MySingleton3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MySingleton2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

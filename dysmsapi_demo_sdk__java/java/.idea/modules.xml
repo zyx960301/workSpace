@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/msg_demo/alicom-mns-receive-samples/src/main/main.iml" filepath="$PROJECT_DIR$/msg_demo/alicom-mns-receive-samples/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api_sdk/aliyun-java-sdk-core/src/main/main1.iml" filepath="$PROJECT_DIR$/api_sdk/aliyun-java-sdk-core/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api_demo/alicom-dysms-api/src/main/main2.iml" filepath="$PROJECT_DIR$/api_demo/alicom-dysms-api/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api_sdk/aliyun-java-sdk-dysmsapi/src/main/main3.iml" filepath="$PROJECT_DIR$/api_sdk/aliyun-java-sdk-dysmsapi/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api_sdk/aliyun-java-sdk-core/src/test/test.iml" filepath="$PROJECT_DIR$/api_sdk/aliyun-java-sdk-core/src/test/test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="msg_sdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/msg_sdk/gson-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/msg_sdk/alicom-mns-receive-sdk-0.0.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/msg_sdk/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/msg_sdk/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/msg_sdk/httpcore-nio-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/msg_sdk/alicom-mns-receive-sdk-0.0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/msg_sdk/aliyun-java-sdk-dybaseapi-1.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/msg_sdk/httpcore-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/msg_sdk/httpclient-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/msg_sdk/aliyun-java-sdk-core-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/msg_sdk/commons-lang3-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/msg_sdk/httpasyncclient-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/msg_sdk/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/msg_sdk/aliyun-sdk-mns-1.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
